@@ -64,8 +64,6 @@ AttackTree_SQLInjection.png: Attack tree representation for SQL Injection.
 ThreatModel_Report.docx: Full threat model report generated using Microsoft TMT.
 Setup and Usage
 Clone the repository:
-bash
-Copy code
 git clone https://github.com/your-repo/university-financial-system.git
 View system architecture:
 Open SystemArchitecture.png for an overview of the data flow.
